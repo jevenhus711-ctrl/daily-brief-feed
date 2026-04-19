@@ -5,17 +5,26 @@
     <link>https://github.com/jevenhus711-ctrl/daily-brief-feed</link>
     <description>Daily Bible verse, world news, and AI platform updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:31:28 +0000</lastBuildDate>
     <itunes:author>Daily Brief</itunes:author>
+    <itunes:summary>Daily Bible verse, world news, and AI platform updates.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Daily Brief</itunes:name>
+      <itunes:email>daily-brief@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <item>
       <title>Daily Brief — 2026-04-19</title>
       <description>Daily Bible verse, world news, and AI platform updates.</description>
       <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/briefs/daily-brief-2026-04-19.mp3" length="2304192" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/briefs/daily-brief-2026-04-19.mp3" length="2345280" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-brief-2026-04-19</guid>
+      <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
       <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Daily Brief — 2026-04-18</title>
@@ -23,7 +32,9 @@
       <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/briefs/daily-brief-2026-04-18.mp3" length="2332224" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-brief-2026-04-18</guid>
+      <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
       <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
