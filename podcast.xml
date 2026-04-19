@@ -5,14 +5,14 @@
     <link>https://github.com/jevenhus711-ctrl/daily-brief-feed</link>
     <description>Daily Bible verse, world news, and AI platform updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 21:50:56 +0000</lastBuildDate>
     <itunes:author>Daily Brief</itunes:author>
     <itunes:summary>Daily Bible verse, world news, and AI platform updates.</itunes:summary>
     <itunes:owner>
       <itunes:name>Daily Brief</itunes:name>
       <itunes:email>daily-brief@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
+    <itunes:image href="https://jevenhus711-ctrl.github.io/daily-brief-feed/cover.png"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -20,9 +20,9 @@
       <title>Daily Brief — 2026-04-19</title>
       <description>Daily Bible verse, world news, and AI platform updates.</description>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/briefs/daily-brief-2026-04-19.mp3" length="2309952" type="audio/mpeg"/>
+      <enclosure url="https://jevenhus711-ctrl.github.io/daily-brief-feed/briefs/daily-brief-2026-04-19.mp3" length="2314176" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-brief-2026-04-19</guid>
-      <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
+      <itunes:image href="https://jevenhus711-ctrl.github.io/daily-brief-feed/cover.png"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -30,9 +30,9 @@
       <title>Daily Brief — 2026-04-18</title>
       <description>Daily Bible verse, world news, and AI platform updates.</description>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/briefs/daily-brief-2026-04-18.mp3" length="2332224" type="audio/mpeg"/>
+      <enclosure url="https://jevenhus711-ctrl.github.io/daily-brief-feed/briefs/daily-brief-2026-04-18.mp3" length="2332224" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-brief-2026-04-18</guid>
-      <itunes:image href="https://raw.githubusercontent.com/jevenhus711-ctrl/daily-brief-feed/main/cover.png"/>
+      <itunes:image href="https://jevenhus711-ctrl.github.io/daily-brief-feed/cover.png"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
