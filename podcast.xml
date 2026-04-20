@@ -5,7 +5,7 @@
     <link>https://github.com/jevenhus711-ctrl/daily-brief-feed</link>
     <description>Daily Bible verse, world news, and AI platform updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:25:42 +0000</lastBuildDate>
     <itunes:author>Daily Brief</itunes:author>
     <itunes:summary>Daily Bible verse, world news, and AI platform updates.</itunes:summary>
     <itunes:owner>
@@ -20,7 +20,7 @@
       <title>Daily Brief — 2026-04-20</title>
       <description>Daily Bible verse, world news, and AI platform updates.</description>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://jevenhus711-ctrl.github.io/daily-brief-feed/briefs/daily-brief-2026-04-20.mp3" length="3915072" type="audio/mpeg"/>
+      <enclosure url="https://jevenhus711-ctrl.github.io/daily-brief-feed/briefs/daily-brief-2026-04-20.mp3" length="4005312" type="audio/mpeg"/>
       <guid isPermaLink="false">daily-brief-2026-04-20</guid>
       <itunes:image href="https://jevenhus711-ctrl.github.io/daily-brief-feed/cover.png"/>
       <itunes:duration>00:05:00</itunes:duration>
